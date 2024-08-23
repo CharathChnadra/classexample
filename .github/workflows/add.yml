@@ -31,3 +31,4 @@ jobs:
     - name: Run the JavaScript script
       run: |
         node add.js 7 8
+      
